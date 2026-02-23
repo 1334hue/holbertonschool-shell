@@ -22,3 +22,10 @@ echo "Shell basics project" > README.md
 mkdir -p basics
 mv 0-current_working_directory basics/
 echo "Learning the basics of shell" > basics/README.md
+git add .
+git commit -m "Initial commit with task 0"
+git push origin main
+ls -R
+mv basics/basics/0-current_working_directory basics/
+mv basics/basics/README.md basics/
+rmdir basics/basics
