@@ -1,0 +1,23 @@
+total 84
+drwxr-xr-x. 2 root root 4096 May  2 17:00 .
+drwxr-xr-x. 7 root root 4096 May  2 16:50 ..
+-rwxr-xr-x. 1 root root   32 May  2 16:50 0-hello_world
+-rwxr-xr-x. 1 root root   28 May  2 16:50 1-confused_smiley
+-rwxr--r--. 1 root root   38 May  2 16:53 15-countthatword
+-rwxr--r--. 1 root root   41 May  2 16:54 16-whatsnext
+-rwxr--r--. 1 root root   38 May  2 16:55 17-hidethisword
+-rwxr--r--. 1 root root   53 May  2 16:50 18-letteronly
+-rwxr--r--. 1 root root   25 May  2 16:56 19-AZ
+-rwxr-xr-x. 1 root root   28 May  2 16:50 2-hellofile
+-rwxr--r--. 1 root root   23 May  2 16:56 20-hiago
+-rwxr--r--. 1 root root   16 May  2 16:57 21-reverse
+-rwxr--r--. 1 root root   45 May  2 16:58 22-users_and_homes
+-rwxr-xr-x. 1 root root   39 May  2 16:50 3-twofiles
+-rwxr-xr-x. 1 root root   29 May  2 16:50 4-lastlines
+-rwxr-xr-x. 1 root root   29 May  2 16:50 5-firstlines
+-rwxr-xr-x. 1 root root   40 May  2 16:50 6-third_line
+-rwxr-xr-x. 1 root root   87 May  2 16:50 7-file
+-rwxr--r--. 1 root root   36 May  2 16:51 8-cwd_state
+-rwxr--r--. 1 root root   37 May  2 16:52 9-duplicate_last_line
+-rwxr--r--. 1 root root  151 May  2 16:50 README.md
+-rw-r--r--. 1 root root    0 May  2 17:00 ls_cwd_content
